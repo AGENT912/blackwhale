@@ -1,2 +1,3 @@
 # blackwhale
 A GUI for HDI. Looks not really modern but useeful. Still in development...
+![Screenshot 2025-12-04 210345.jpg](Screenshot 2025-12-04 210345.jpg)
